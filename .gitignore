@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.ipynb_checkpoints/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files (uncomment if you DO NOT want to upload CSVs)
+# order_book_snapshot.csv
+# trades.csv
+
+# Virtual environments
+.venv/
+venv/
+env/
